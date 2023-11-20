@@ -1,4 +1,4 @@
-git brqncexport const Card = {
+export const Card = {
   Image: "asset/luke-stackpoole-ubSUwrr04Ks-unsplash.jpg",
   Title: "À propos",
   Ville: `New York est une ville composée de 5 arrondissements à l'embouchure du fleuve Hudson et de l'océan Atlantique. 
